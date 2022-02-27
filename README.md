@@ -9,7 +9,7 @@ Determine and underlying trend in Type I Activne nucleai Galaxies using a novel 
 - [Overview](#overview)
 - [Authors](#Authors)
 - [Requirements](#requirements)
-- [How to use the algorithm](#How to use the algorithm)
+- [How to use the tool](#Hpw to use the tool)
 - [Example Directory](#directory)
 - [Selected Results](#acknowledgement)
 - [References](#references)
@@ -39,9 +39,8 @@ In order to estimate the continuum flux, we shift the spectra to rest-frame wave
 
 ## Requirements
 
-This work is implemented in python and requires the following:
+This work is implemented in python and for both the Dataset engineering and the Sequencer algorithm, requires the following:
 
-For the Dataset engineering and the Sequencer algorithm:
 - python 3.7.1
 - numpy 1.18.1
 - scipy 1.3.1
