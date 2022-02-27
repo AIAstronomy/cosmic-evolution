@@ -51,7 +51,7 @@ This work is implemented in python and for both the Dataset engineering and the 
 
 ## How it works
 
-All code used in this project is available inside [`src/`](src) directory. It is written in Python.
+All code used in this project is available inside [`main/`](main) directory. It is written in Python.
 
 Step 1: Download catalog and spectra data per AGN
 Step 2: Normaliza spectra to rest frame wavelength
