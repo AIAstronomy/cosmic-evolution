@@ -9,7 +9,7 @@ Determine and underlying trend in Type I Activne nucleai Galaxies using a novel 
 - [Overview](#overview)
 - [Authors](#Authors)
 - [Requirements](#requirements)
-- [How it works](#requirements)
+- [How it works](#requirements2)
 - [Example Directory](#directory)
 - [Selected Results](#acknowledgement)
 - [References](#references)
@@ -49,8 +49,7 @@ This work is implemented in python and for both the Dataset engineering and the 
 - requests 2.27.1
 - networkx 2.4
 
-## How to use the algorithm
-
+## Requirements2
 All code used in this project is available inside [`src/`](src) directory. It is written in C/C++.
 
 For more information see: [src/README.md](src/README.md)
