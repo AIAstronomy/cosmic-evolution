@@ -49,7 +49,7 @@ This work is implemented in python and for both the Dataset engineering and the 
 - requests 2.27.1
 - networkx 2.4
 
-## Requirements2
+## RHow it works2
 All code used in this project is available inside [`src/`](src) directory. It is written in C/C++.
 
 For more information see: [src/README.md](src/README.md)
