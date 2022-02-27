@@ -79,4 +79,17 @@ The [main directory](https://github.com/br0ly23/cosmic-evolution/tree/main) cont
 
 ## References
 
+http://www.comoves.unam.mx/numeros/articulo/192/galaxias-de-nucleo-activo
+Bock, T. (s.f.). What is Distance Matrix? Obtenido de What is Distance Matrix?: https://www.displayr.com/what-is-a-distance-matrix/
+C. Ramos Almeida, N. A.-H.-S. (2011). Obtenido de https://arxiv.org/abs/1101.3335
+Chem, E. (s.f.). Obtenido de https://www.chemeurope.com/en/encyclopedia/Doppler_broadening.html
+Dayla Baron, B. M. (2020). Extracting the main trend in dataset: the Sequencer algorithm. Obtenido de https://arxiv.org/pdf/2006.13948.pdf
+Geophysics, I. (2002). Pressure Broadening. Obtenido de An Introduction to Atmospheric Radiation: https://www.sciencedirect.com/topics/earth-and-planetary-sciences/pressure-broadening
+Hil, C. (2016). Learning Scientific Programming with Python. Cambridge University Press . Obtenido de The Voigt profile: https://scipython.com/book/chapter-8-scipy/examples/the-voigt-profile/
+Lorentz. (1906). Obtenido de https://www.sjsu.edu/faculty/watkins/lorentzline.htm
+Mi Sistema Solar. (s.f.). Obtenido de https://misistemasolar.com/galaxias-activas/
+R.D. Blandford, H. N. (1990). Obtenido de https://ned.ipac.caltech.edu/level5/March02/Netzer/paper.pdf
+Robert Sedgewick, K. W. (2011). Algorithms. En K. W. Robert Sedgewick, Algorithms. 
+TANIGUCHI, Y. (2019). Understanding the Breadth-First Search with Python. Obtenido de Understanding the Breadth-First Search with Python: https://medium.com/@yasufumy/algorithm-breadth-first-search-408297a075c9
+
 
