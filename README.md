@@ -87,7 +87,8 @@ The [main directory](https://github.com/br0ly23/cosmic-evolution/tree/main) cont
 - Boroson, T. A. (1992, May). The Emission-Line Properties of Low-Redshift Quasi-stellar Objects. ApJS, 80, 109. doi:10.1086/191661
 - C. Ramos Almeida, N. A.-H.-S. (2011). Retrieved from https://arxiv.org/abs/1101.3335
 - Chem, E. (n.d.). Retrieved from https://www.chemeurope.com/en/encyclopedia/Doppler_broadening.html
-- Dayla Baron, B. M. (2020). Extracting the main trend in dataset: the Sequencer algorithm. Retrieved from https://arxiv.org/pdf/2006.13948.pdf
+- Calderone et al. 2017. QSFit: Automatic analysis of optical AGN spectra. Retrieved from https://arxiv.org/abs/1612.01580
+- Dayla Baron, B. M. (2020). Black hole mass estimation for Active Galactic Nuclei from a new angle. Retrieved from https://arxiv.org/abs/1903.01996
 - Geophysics, I. (2002). Pressure Broadening. Retrieved from An Introduction to Atmospheric Radiation: https://www.sciencedirect.com/topics/earth-and-planetary-sciences/pressure-broadening
 - Ghosh, D. (2019). KL Divergence for Machine Learning. Retrieved from The RL Probabilist: https://dibyaghosh.com/blog/probability/kldivergence.html
 - Glenn, N. (n.d.). analystanswers.com. Retrieved from https://analystanswers.com/data-normalization-techniques-easy-to-advanced-the-best/
