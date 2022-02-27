@@ -53,14 +53,14 @@ This work is implemented in python and for both the Dataset engineering and the 
 
 All code used in this project is available inside [`main/`](main) directory. It is written in Python.
 
-Step 1: Download catalog and spectra data per AGN
-Step 2: Normaliza spectra to rest frame wavelength
-Step 3: Interpolated to a 4000 to 7000 common wavelength
-Step 4: Cubic Spline interpolation to estimate flux distribution
-Step 5: Remove continuum estimates
-Step 6: define Sequencer object (metrics and scales and seq function)
-Step 7: Execute sequencer object
-Step 8: Final output of secuence: final elongation of the dataset
+- Step 1: Download catalog and spectra data per AGN
+- Step 2: Normaliza spectra to rest frame wavelength
+- Step 3: Interpolated to a 4000 to 7000 common wavelength
+- Step 4: Cubic Spline interpolation to estimate flux distribution
+- Step 5: Remove continuum estimates
+- Step 6: define Sequencer object (metrics and scales and seq function)
+- Step 7: Execute sequencer object
+- Step 8: Final output of secuence: final elongation of the dataset
 
 For more information see: [src/README.md](src/README.md)
 
