@@ -1,6 +1,6 @@
 # Cosmic evolution in galaxies with active nucleus 
 
-Determine and underlying trend in Type I Activne nucleai Galaxies using a novel algorithm that detects one-dimensional sequences in complex datasets.
+Determine and underlying trend in Type I Active nucleai Galaxies using a novel algorithm that detects one-dimensional sequences in complex datasets.
 
 [Document of the Master Thesis](https://1drv.ms/w/s!AhVCX2iWzgmbhQgoTzNTDx9adnzd?e=Y8L41l)
 
