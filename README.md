@@ -50,11 +50,30 @@ This work is implemented in python and for both the Dataset engineering and the 
 - networkx 2.4
 
 ## How it works
-All code used in this project is available inside [`src/`](src) directory. It is written in C/C++.
+
+All code used in this project is available inside [`src/`](src) directory. It is written in Python.
+
+Step 1: Download catalog and spectra data per AGN
+Step 2: Normaliza spectra to rest frame wavelength
+Step 3: Interpolated to a 4000 to 7000 common wavelength
+Step 4: Cubic Spline interpolation to estimate flux distribution
+Step 5: Remove continuum estimates
+Step 6: define Sequencer object (metrics and scales and seq function)
+Step 7: Execute sequencer object
+Step 8: Final output of secuence: final elongation of the dataset
 
 For more information see: [src/README.md](src/README.md)
 
 ## Example Directory
+
+The [dataset directory](https://github.com/br0ly23/cosmic-evolution/tree/main/dataset) contains several Jupyter notebooks that illustrate different aspects of the Sequencer algorithm. Users who are not familiar with the Sequencer are encouraged to go through the examples in the following order:
+1. `basic_sequencer_functionalities.ipynb`: this notebook shows the basic functionalities of the algorithm. It shows how to apply the Sequencer to a simple simulated dataset with default settings. It shows how to extract various interesting properties of the algorithm, such as the intermediate elongations obtained during the calculation. It then shows some non-default settings that the user should be aware of (parallelization, varying scales, output options). 
+2. `comparison_with_tsne_and_umap.ipynb`: this notebook compares the Sequencer output to the one-dimensional embedding by tSNE and UMAP for a simulated dataset. Importantly, this notebook presents a method to define a general figure of merit for Dimensionality Reduction algorithms that can be used to optimize their hyper-parameters. Using this figure of merit, we can optimize the hyper-parameters of tSNE and UMAP and compare their resulting sequence to the one obtained with the Sequencer.
+3. `visualizing_the_MST.ipynb`: this notebook shows how to extract the resulting final Minimum Spanning Tree and how to visualize it with the `networkx` package.
+4. `examples_with_natural_images.ipynb`: this notebook shows examples with scrambled natural images. In this notebook, the rows of different natural images are shuffled, and then the Sequencer is applied to the shuffled dataset with the goal of recovering the original image. Finally, the notebook shows the application of tSNE and UMAP to the shuffled images, while varying their hyper-parameters. It illustrates the importance of defining a figure of merit to optimize the hyper-parameters of dimensionality reduction algorithms (the user should go over the notebook `comparison_with_tsne_and_umap.ipynb` before going over this notebook).
+5. `importance_of_multi_scale_approach.ipynb`: this notebook applies the Sequencer to stellar spectra, which are 1D objects with relevant information on many different scales (both small scales and large scales). The notebook shows how to extract the intermediate elongations of different chunks of data, and using these, illustrates the importance of the multi-scale approach of the Sequencer.
+6. `beyond_1D_sequence.ipynb`: the Sequencer provides a one-dimensional embedding of the input dataset. This notebook shows how we can go beyond a 1D sequence using a method somewhat similar to PCA: once the main trend in the data is detected, we can 'strip' it from the data, and apply the Sequencer to detect the second strongest trend in the data, and so on. 
+7. `two_dimensional_objects.ipynb`: so far, we applied the Sequencer to datasets consisting of 1D objects. This notebook shows how to apply the Sequencer to a dataset consisting of 2D objects (images).
 
 ## Selected results
 
