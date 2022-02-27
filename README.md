@@ -82,7 +82,7 @@ The [main directory](https://github.com/br0ly23/cosmic-evolution/tree/main) cont
 
 Below the 1937 QSO's flux spectra normalized in no particular order:
 
-[](dataset/1937 qso.png)
+![](dataset/1937 qso.png)
 
 
 
