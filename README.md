@@ -79,17 +79,33 @@ The [main directory](https://github.com/br0ly23/cosmic-evolution/tree/main) cont
 
 ## References
 
-http://www.comoves.unam.mx/numeros/articulo/192/galaxias-de-nucleo-activo
-Bock, T. (s.f.). What is Distance Matrix? Obtenido de What is Distance Matrix?: https://www.displayr.com/what-is-a-distance-matrix/
-C. Ramos Almeida, N. A.-H.-S. (2011). Obtenido de https://arxiv.org/abs/1101.3335
-Chem, E. (s.f.). Obtenido de https://www.chemeurope.com/en/encyclopedia/Doppler_broadening.html
-Dayla Baron, B. M. (2020). Extracting the main trend in dataset: the Sequencer algorithm. Obtenido de https://arxiv.org/pdf/2006.13948.pdf
-Geophysics, I. (2002). Pressure Broadening. Obtenido de An Introduction to Atmospheric Radiation: https://www.sciencedirect.com/topics/earth-and-planetary-sciences/pressure-broadening
-Hil, C. (2016). Learning Scientific Programming with Python. Cambridge University Press . Obtenido de The Voigt profile: https://scipython.com/book/chapter-8-scipy/examples/the-voigt-profile/
-Lorentz. (1906). Obtenido de https://www.sjsu.edu/faculty/watkins/lorentzline.htm
-Mi Sistema Solar. (s.f.). Obtenido de https://misistemasolar.com/galaxias-activas/
-R.D. Blandford, H. N. (1990). Obtenido de https://ned.ipac.caltech.edu/level5/March02/Netzer/paper.pdf
-Robert Sedgewick, K. W. (2011). Algorithms. En K. W. Robert Sedgewick, Algorithms. 
-TANIGUCHI, Y. (2019). Understanding the Breadth-First Search with Python. Obtenido de Understanding the Breadth-First Search with Python: https://medium.com/@yasufumy/algorithm-breadth-first-search-408297a075c9
+-Antonucci, R. (1993). Antonucci, R. Annual Review of Astronomy and Astrophysics, 473-521. doi:10.1146/annurev.aa.31.090193.002353
+-Baron, D. (2020, June 26). Extracting the main trend in a dataset. Retrieved from https://arxiv.org/pdf/2006.13948.pdf: https://arxiv.org/pdf/2006.13948.pdf
+-Beaklini, E. A. (n.d.). UNAM. Retrieved from Galxias de nucleo activo: http://www.comoves.unam.mx/numeros/articulo/192/galaxias-de-nucleo-activo
+-Bock, T. (n.d.). What is Distance Matrix? Retrieved from What is Distance Matrix?: https://www.displayr.com/what-is-a-distance-matrix/
+-Boroson, T. A. (1992, May). The Emission-Line Properties of Low-Redshift Quasi-stellar Objects. ApJS, 80, 109. doi:10.1086/191661
+-C. Ramos Almeida, N. A.-H.-S. (2011). Retrieved from https://arxiv.org/abs/1101.3335
+-Chem, E. (n.d.). Retrieved from https://www.chemeurope.com/en/encyclopedia/Doppler_broadening.html
+-Dayla Baron, B. M. (2020). Extracting the main trend in dataset: the Sequencer algorithm. Retrieved from https://arxiv.org/pdf/2006.13948.pdf
+-Geophysics, I. (2002). Pressure Broadening. Retrieved from An Introduction to Atmospheric Radiation: https://www.sciencedirect.com/topics/earth-and-planetary-sciences/pressure-broadening
+-Ghosh, D. (2019). KL Divergence for Machine Learning. Retrieved from The RL Probabilist: https://dibyaghosh.com/blog/probability/kldivergence.html
+-Glenn, N. (n.d.). analystanswers.com. Retrieved from https://analystanswers.com/data-normalization-techniques-easy-to-advanced-the-best/
+-Hil, C. (2016). Learning Scientific Programming with Python. Cambridge University Press . Retrieved from The Voigt profile: https://scipython.com/book/chapter-8-scipy/examples/the-voigt-profile/
+-John A. Lee, M. V. (2010). Scale-independent quality criteria for dimensionality reduction. Retrieved from https://doi.org/10.1016/j.patrec.2010.04.013
+-Lorentz. (1906). Retrieved from https://www.sjsu.edu/faculty/watkins/lorentzline.htm
+-Maaten, L. v., & Hinton, G. (2008). t-SNE. Journal of Machine Learning Research, 26.
+-Mi Sistema Solar. (n.d.). Retrieved from https://misistemasolar.com/galaxias-activas/
+-Pettie, S., & Ramachandran, V. (2002). An Optimal Minimum Spanning Tree Algorithm. Journal of the ACM, Vol 29 No 1, 16-34. Retrieved from https://www.ijcaonline.org/journal/number8/pxc387321.pdf
+-Prabhakaran, S. (2019, March 23). ML+. Retrieved from https://www.machinelearningplus.com/machine-learning/principal-components-analysis-pca-better-explained/
+-R.D. Blandford, H. N. (1990). Retrieved from https://ned.ipac.caltech.edu/level5/March02/Netzer/paper.pdf
+-Rizzo, M. L., & Székely, G. J. (2015, December 28). Energy Distance. WIREs Computational Statistics, 27-38. doi:https://doi.org/10.1002/wics.1375
+-Robert Sedgewick, K. W. (2011). Algorithms. In K. W. Robert Sedgewick, Algorithms. 
+-Shen, Y. H. (2014). The diversity of quasars unified by accretion and orientation. Nature, 210-213. doi:10.1038/nature13712
+-TANIGUCHI, Y. (2019). Understanding the Breadth-First Search with Python. Retrieved from Understanding the Breadth-First Search with Python: https://medium.com/@yasufumy/algorithm-breadth-first-search-408297a075c9
+-Wattenberg, e. a. (2016). "How to Use t-SNE Effectively". Retrieved from Distill: http://doi.org/10.23915/distill.00002
+-Y. Rubner, C. T. (1998). The Earth Mover's Distance. IEEE International Conference on Computer Vision, 59-66. Retrieved from http://doi.org/10.1023/A:1026543900054
+-YORK, D. G. (2000). The Sloan Digital Sky Survey: Technical Summary. The Astronomical Journal, 120, 1579-1587. doi:10.1086/301513
+
+
 
 
