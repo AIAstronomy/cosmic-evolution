@@ -1,12 +1,13 @@
 # Cosmic evolution in galaxies with active nucleus 
 
-Authors: Manuel David Moras Acosta, Guzmán-Álvarez, César Augusto 
+Determine and underlying trend in Type I Activne nucleai Galaxies using a novel algorithm that detects one-dimensional sequences in complex datasets.
 
 [Document of the Master Thesis](https://1drv.ms/w/s!AhVCX2iWzgmbhQgoTzNTDx9adnzd?e=Y8L41l)
 
 ## Table of Contents
 
-- [Abstract](#abstract)
+- [Overview](#overview)
+- [Authors](#Authors)
 - [Architecture](#architecture)
 - [Code](#code)
 - [Publications](#publications)
@@ -16,6 +17,10 @@ Authors: Manuel David Moras Acosta, Guzmán-Álvarez, César Augusto
 ## Abstract
 
 We presented a ...
+
+## Authors
+Manuel David Moras Acosta, Guzmán-Álvarez, César Augusto
+
 
 ## Architecture
 
