@@ -43,6 +43,7 @@ This work is implemented in python and for both the Dataset engineering and the 
 
 - python 3.7.1
 - numpy 1.18.1
+- pandas 1.4.1
 - scipy 1.3.1
 - matplotlib 3.5.1
 - astropy 5.0.1
