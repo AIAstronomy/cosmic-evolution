@@ -78,7 +78,7 @@ The [main directory](https://github.com/br0ly23/cosmic-evolution/tree/main) cont
 
 ## Selected results
 
-###QSOs with redshift < 0.3
+### QSOs with redshift < 0.3
 
 Below the 1937 QSO's flux spectra normalized in no particular order:
 
