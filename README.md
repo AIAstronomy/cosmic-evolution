@@ -117,16 +117,4 @@ normalised flux. Bottom:Normalized spectra ordered by line shape similarity. The
 - Y. Rubner, C. T. (1998). The Earth Mover's Distance. IEEE International Conference on Computer Vision, 59-66. Retrieved from http://doi.org/10.1023/A:1026543900054
 - YORK, D. G. (2000). The Sloan Digital Sky Survey: Technical Summary. The Astronomical Journal, 120, 1579-1587. doi:10.1086/301513
 
-## Citation 
-If you make use of the code in this directory, the Sequencer algorithm, or the ideas presented in the paper (e.g., using the MST elongation to optimize the hyper-parameters of tSNE and UMAP), please cite our paper on Arxiv: https://arxiv.org/abs/2006.13948.
-
-Citation key:
-```
-@misc{moras2022,
-    title={Eosmic evolution in galaxies with active nucleus},
-    author={Manuel David Moras Acosta and César Augusto Guzmán-Álvarez},
-    year={2020},
-}
-```
-
 
