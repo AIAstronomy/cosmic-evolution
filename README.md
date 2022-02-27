@@ -73,7 +73,7 @@ The [main directory](https://github.com/br0ly23/cosmic-evolution/tree/main) cont
 4. `CE1 - Sequence for Redshift between 0.1 and 0.2.ipynb`: This notebook analyze the sequence present in QSO objects with a redshift between 0.1 and 0.2, following the same steps and the above notebook.
 5. `CE1 - Sequence for Redshift between 0.2 and 0.3.ipynb`: This notebook analyze the sequence present in QSO objects with a redshift between 0.2 and 0.3, following the same steps and the above notebooks.
 6. `CE1 - Sequence for Redshift between 0.2 and 0.3.ipynb`: This notebook analyze the sequence present in QSO objects with a redshift between 0.2 and 0.3, following the same steps and the above notebooks.
-7.`CE1 - Sequence for Redshift between 0.3 and 0.5.ipynb`: This notebook analyze the sequence present in QSO objects with a redshift between 0.2 and 0.3, following the same steps and the above notebooks.
+7. `CE1 - Sequence for Redshift between 0.3 and 0.5.ipynb`: This notebook analyze the sequence present in QSO objects with a redshift between 0.2 and 0.3, following the same steps and the above notebooks.
 
 ## Selected results
 
