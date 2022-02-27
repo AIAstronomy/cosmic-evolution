@@ -78,6 +78,14 @@ The [main directory](https://github.com/br0ly23/cosmic-evolution/tree/main) cont
 
 ## Selected results
 
+QSOs with redshift < 0.3
+
+Below the 1937 QSO's flux spectra normalized in no particular order:
+
+![](dataset/1937 qso.png)
+
+
+
 ## References
 
 - Antonucci, R. (1993). Antonucci, R. Annual Review of Astronomy and Astrophysics, 473-521. doi:10.1146/annurev.aa.31.090193.002353
