@@ -14,12 +14,14 @@ Determine and underlying trend in Type I Activne nucleai Galaxies using a novel 
 - [Acknowledgement](#acknowledgement)
 - [References](#references)
 
-## Abstract
+## Overview
 
 We presented a ...
 
 ## Authors
-Manuel David Moras Acosta, Guzmán-Álvarez, César Augusto
+
+- Moras Acosta, Manuel David (manomoras@gmail.com)
+- Guzmán-Álvarez, César Augusto (Universidad Internacional de Valencia)
 
 
 ## Architecture
