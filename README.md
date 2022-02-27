@@ -9,7 +9,7 @@ Determine and underlying trend in Type I Activne nucleai Galaxies using a novel 
 - [Overview](#overview)
 - [Authors](#Authors)
 - [Requirements](#requirements)
-- [How to](#how to)
+- [How it works](#requirements)
 - [Example Directory](#directory)
 - [Selected Results](#acknowledgement)
 - [References](#references)
