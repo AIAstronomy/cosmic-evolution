@@ -1,17 +1,21 @@
 # Cosmic evolution in galaxies with active nucleus 
 
-
 Determine and underlying trend in Type I Active nucleai Galaxies using a novel algorithm that detects one-dimensional sequences in complex datasets.
 
-[Master Thesis' document](https://1drv.ms/w/s!AhVCX2iWzgmbhQx2upIgj9bBrJfO?e=70VReI)
+<div align=center>
+  <a href="https://www.universidadviu.com/es/"><img src="https://user-images.githubusercontent.com/15159632/155946766-9bf49086-a07f-473c-a703-65c1cc739c9c.png" alt="VIU" title="VIU" hspace="30" height="96px" /></a>
+  <a href="https://iac.es/"><img src="https://user-images.githubusercontent.com/15159632/155946637-70e34166-80c8-407b-a719-c5d1ad421118.png" alt="IAC" title="IAC" hspace="30" height="96px" /></a>
+</div>
 
----
+<br/>
 
 Author: Moras Acosta, Manuel David ([@br0ly23](https://github.com/br0ly23)) (manomoras@gmail.com)
 
 Advisor: Guzman-Alvarez, Cesar Augusto ([@cguz](https://github.com/cguz)) 
 
 Co-Advisor: Garcia Lorenzo, Begona (-) 
+
+---
 
 ## Table of Content
 
@@ -20,6 +24,7 @@ Co-Advisor: Garcia Lorenzo, Begona (-)
 - [How it works](#how-it-works)
 - [Example Directory](#example-directory)
 - [Selected Results](#selected-results)
+- [Publications](#publications)
 - [References](#references)
 
 ## Overview
@@ -88,6 +93,9 @@ The [main directory](https://github.com/br0ly23/cosmic-evolution/tree/main) cont
 TOP:The rest-frame AGN spectra of 1937 objects in random order . Each row represents an emission line spectrum colour-coded by
 normalised flux. Bottom:Normalized spectra ordered by line shape similarity. The overall trend reveals a sequence primarily driven by the width and shape of the broad Hα line.
 
+## Publications
+
+[Master Thesis' document](https://1drv.ms/w/s!AhVCX2iWzgmbhQx2upIgj9bBrJfO?e=70VReI)
 
 ## References
 
@@ -118,5 +126,3 @@ normalised flux. Bottom:Normalized spectra ordered by line shape similarity. The
 - Wattenberg, e. a. (2016). "How to Use t-SNE Effectively". Retrieved from Distill: http://doi.org/10.23915/distill.00002
 - Y. Rubner, C. T. (1998). The Earth Mover's Distance. IEEE International Conference on Computer Vision, 59-66. Retrieved from http://doi.org/10.1023/A:1026543900054
 - YORK, D. G. (2000). The Sloan Digital Sky Survey: Technical Summary. The Astronomical Journal, 120, 1579-1587. doi:10.1086/301513
-
-
