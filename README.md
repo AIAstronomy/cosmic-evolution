@@ -22,7 +22,7 @@ Co-Advisor: Garcia Lorenzo, Begona (-)
 - [Overview](#overview)
 - [Requirements](#requirements)
 - [How it works](#how-it-works)
-- [Example Directory](#example-directory)
+- [Source code](#source-code)
 - [Selected Results](#selected-results)
 - [Publications](#publications)
 - [References](#references)
@@ -59,7 +59,7 @@ This work is implemented in python and for both the Dataset engineering and the 
 
 ## How it works
 
-All code used in this project is available inside [`main/`](main) directory. It is written in Python.
+All code used in this project is available inside [`main/`](main) branch. It is written in Python.
 
 - Step 1: Download catalog and spectra data per AGN
 - Step 2: Normaliza spectra to rest frame wavelength
@@ -70,27 +70,26 @@ All code used in this project is available inside [`main/`](main) directory. It 
 - Step 7: Execute sequencer object
 - Step 8: Final output of secuence: final elongation of the dataset
 
-For more information see: [src/README.md](src/README.md)
+## Source code
 
-## Example Directory
+This repository contains several Jupyter notebooks that illustrate different aspects of the Sequencer algorithm. Users who are not familiar with the Sequencer are encouraged to go through the examples in the following order:
 
-The [main directory](https://github.com/br0ly23/cosmic-evolution/tree/main) contains several Jupyter notebooks that illustrate different aspects of the Sequencer algorithm. Users who are not familiar with the Sequencer are encouraged to go through the examples in the following order:
 1. `ACE - Download Raw spectra data.ipynb`: This notebook contains the initial data wrangling of the main catalogue of spectral properties of Type 1 AGN (observed with SDSS DR10) which later is filter down for this work, to objects with redshift < 0.5, This parameter can be changed to contain the full catalog (z < 2). Afterwards it saves the relevant information for future steps in a json file.
 2. `CE1 - Reproducion Dalya Dataset.ipynb`: This notebook analyze the sequence present in QSO objects with a redshift less than 0.3, same parameters used in the Black hole estimation study by Dalya Baron (https://arxiv.org/abs/1903.01996). Firts it dowloads the necessary spectra for each object and further normalized it as explain on the "How it works" session. Once normalized it is send to the sequencer to find out the sequence present. The final output is shown on the MST graph.
-3. `CE1 - Sequence for Redshift between less than 0.1.ipynb`: This notebook analyze the sequence present in QSO objects with a redshift less than 0.1. following the same steps and the above notebook.
-4. `CE1 - Sequence for Redshift between 0.1 and 0.2.ipynb`: This notebook analyze the sequence present in QSO objects with a redshift between 0.1 and 0.2, following the same steps and the above notebook.
-5. `CE1 - Sequence for Redshift between 0.2 and 0.3.ipynb`: This notebook analyze the sequence present in QSO objects with a redshift between 0.2 and 0.3, following the same steps and the above notebooks.
-6. `CE1 - Sequence for Redshift between 0.2 and 0.3.ipynb`: This notebook analyze the sequence present in QSO objects with a redshift between 0.2 and 0.3, following the same steps and the above notebooks.
-7. `CE1 - Sequence for Redshift between 0.3 and 0.5.ipynb`: This notebook analyze the sequence present in QSO objects with a redshift between 0.2 and 0.3, following the same steps and the above notebooks.
+3. `CE2 - Sequence for Redshift less than 0.1.ipynb`: This notebook analyze the sequence present in QSO objects with a redshift less than 0.1. following the same steps and the above notebook.
+4. `CE3 - Sequence for Redshift between 0.1 and 0.2.ipynb`: This notebook analyze the sequence presented in QSO objects with a redshift between 0.1 and 0.2, following the same steps and the above notebook.
+5. `CE4 - Sequence for Redshift between 0.2 and 0.3.ipynb`: This notebook analyze the sequence presented in QSO objects with a redshift between 0.2 and 0.3, following the same steps and the above notebooks.
+6. `CE5 - Sequence for Redshift between 0.2 and 0.5.ipynb`: This notebook analyze the sequence presented in QSO objects with a redshift between 0.2 and 0.3, following the same steps and the above notebooks.
+7. `CE6 - Sequence for Redshift between 0.3 and 0.5.ipynb`: This notebook analyze the sequence presented in QSO objects with a redshift between 0.2 and 0.3, following the same steps and the above notebooks.
 
-## Selected results
+## Results' example
 
 ### QSOs with redshift < 0.3
 
 ![1937 qso](https://user-images.githubusercontent.com/66274170/155895038-917fb0d5-4412-4e7e-bccc-fd15e1258e49.png)
 ![1937 qso ordered](https://user-images.githubusercontent.com/66274170/155895252-2571144e-c340-4994-bd12-7af98ddc5fb8.png)
 
-TOP:The rest-frame AGN spectra of 1937 objects in random order . Each row represents an emission line spectrum colour-coded by
+TOP: The rest-frame AGN spectra of 1937 objects in random order . Each row represents an emission line spectrum colour-coded by
 normalised flux. Bottom:Normalized spectra ordered by line shape similarity. The overall trend reveals a sequence primarily driven by the width and shape of the broad Hα line.
 
 ## Publications
