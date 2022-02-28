@@ -17,9 +17,9 @@ Co-Advisor: Garcia Lorenzo, Begona (-)
 
 - [Overview](#overview)
 - [Requirements](#requirements)
-- [How it works](#Howitworks)
-- [Example Directory](#Exampledirectory)
-- [Selected Results](#Selectedresults)
+- [How it works](#how-it-works)
+- [Example Directory](#example-directory)
+- [Selected Results](#selected-results)
 - [References](#references)
 
 ## Overview
