@@ -1,17 +1,25 @@
 # Cosmic evolution in galaxies with active nucleus 
 
+
 Determine and underlying trend in Type I Active nucleai Galaxies using a novel algorithm that detects one-dimensional sequences in complex datasets.
 
-[Document of the Master Thesis](https://1drv.ms/w/s!AhVCX2iWzgmbhQx2upIgj9bBrJfO?e=70VReI)
+[Master Thesis' document](https://1drv.ms/w/s!AhVCX2iWzgmbhQx2upIgj9bBrJfO?e=70VReI)
 
-## Table of Contents
+---
+
+Author: Moras Acosta, Manuel David ([@br0ly23](https://github.com/br0ly23)) (manomoras@gmail.com)
+
+Advisor: Guzman-Alvarez, Cesar Augusto ([@cguz](https://github.com/cguz)) 
+
+Co-Advisor: Garcia Lorenzo, Begona (-) 
+
+## Table of Content
 
 - [Overview](#overview)
-- [Authors](#Authors)
 - [Requirements](#requirements)
-- [How it works](#requirements2)
-- [Example Directory](#directory)
-- [Selected Results](#acknowledgement)
+- [How it works](#Howitworks)
+- [Example Directory](#Exampledirectory)
+- [Selected Results](#Selectedresults)
 - [References](#references)
 
 ## Overview
@@ -30,12 +38,6 @@ For the initial work, we select systems with z < 0.3 so that the observed Hα em
 Calderone et al. 2017 present a catalogue of measured properties for these AGN which includes continuum and emission lines measurements around the Hα, Hβ, MgII, and CIV emission lines. 
 
 In order to estimate the continuum flux, we shift the spectra to rest-frame wavelength and then interpolate them to a common wavelength grid from 4000˚ A to 7000˚ A with 1A resolution. This dataset is analyzed by the novel algorithm to find the underlying trend of created dataset.
-
-
-## Authors
-
-- Moras Acosta, Manuel David (manomoras@gmail.com)
-- Guzmán-Álvarez, César Augusto (Universidad Internacional de Valencia)
 
 ## Requirements
 
