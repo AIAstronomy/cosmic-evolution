@@ -80,7 +80,6 @@ This repository contains several Jupyter notebooks that illustrate different asp
 4. `CE3 - Sequence for Redshift between 0.1 and 0.2.ipynb`: This notebook analyze the sequence presented in QSO objects with a redshift between 0.1 and 0.2, following the same steps and the above notebook.
 5. `CE4 - Sequence for Redshift between 0.2 and 0.3.ipynb`: This notebook analyze the sequence presented in QSO objects with a redshift between 0.2 and 0.3, following the same steps and the above notebooks.
 6. `CE5 - Sequence for Redshift between 0.2 and 0.5.ipynb`: This notebook analyze the sequence presented in QSO objects with a redshift between 0.2 and 0.3, following the same steps and the above notebooks.
-7. `CE6 - Sequence for Redshift between 0.3 and 0.5.ipynb`: This notebook analyze the sequence presented in QSO objects with a redshift between 0.2 and 0.3, following the same steps and the above notebooks.
 
 ## Results' example
 
@@ -89,7 +88,7 @@ This repository contains several Jupyter notebooks that illustrate different asp
 ![1937 qso](https://user-images.githubusercontent.com/66274170/155895038-917fb0d5-4412-4e7e-bccc-fd15e1258e49.png)
 ![1937 qso ordered](https://user-images.githubusercontent.com/66274170/155895252-2571144e-c340-4994-bd12-7af98ddc5fb8.png)
 
-TOP: The rest-frame AGN spectra of 1937 objects in random order . Each row represents an emission line spectrum colour-coded by
+TOP: The rest-frame AGN spectra of 1937 objects in random order. Each row represents an emission line spectrum colour-coded by
 normalised flux. Bottom:Normalized spectra ordered by line shape similarity. The overall trend reveals a sequence primarily driven by the width and shape of the broad Hα line.
 
 ## Publications
