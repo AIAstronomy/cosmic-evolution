@@ -86,7 +86,7 @@ This repository contains several Jupyter notebooks that illustrate different asp
 ### QSOs with redshift < 0.3
 
 ![1937 qso](https://github.com/br0ly23/cosmic-evolution/blob/main/dataset/1937%20agn%20random%20order.png)
-![1937 qso ordered](dataset/1937 agns secuenced.png)
+![1937 qso ordered](https://github.com/br0ly23/cosmic-evolution/blob/ff7fe47649f884ff63db2c0e7e07294385a6c3c8/dataset/1937%20agns%20secuenced.png)
 
 TOP: The rest-frame AGN spectra of 1941 objects in random order. Each row represents an emission line spectrum colour-coded by
 normalised flux. Bottom:Normalized spectra ordered by line shape similarity. The overall trend reveals a sequence primarily driven by the width and shape of the broad Hα line.
