@@ -38,7 +38,7 @@ so, we use spectroscopic data from the QSOfit catalog created and analyzed Calde
 
 This work also allows the creation of any dataset from a SDSS catalog, by automatically downloading the spectra files from any object based on its redshift, and implementing the data engineering neeed to create a dataset that can be used with the sequencer algorithm. This will allow for researchers to investigate trends in multiple emission lines and redshift interval for any objects needed.
 
-For the initial work, we select systems with z < 0.3 so that the observed Hα emission line stays at wavelengths shorter than 8500˚ A, This reduces the sample size to 1937 AGN. 
+For the initial work, we select systems with z < 0.3 so that the observed Hα emission line stays at wavelengths shorter than 8500˚ A, This reduces the sample size to 1941 AGN. 
 
 Calderone et al. 2017 present a catalogue of measured properties for these AGN which includes continuum and emission lines measurements around the Hα, Hβ, MgII, and CIV emission lines. 
 
@@ -85,11 +85,11 @@ This repository contains several Jupyter notebooks that illustrate different asp
 
 ### QSOs with redshift < 0.3
 
-![1937 qso](https://user-images.githubusercontent.com/66274170/155895038-917fb0d5-4412-4e7e-bccc-fd15e1258e49.png)
-![1937 qso ordered](https://user-images.githubusercontent.com/66274170/155895252-2571144e-c340-4994-bd12-7af98ddc5fb8.png)
+![1937 qso](https://github.com/br0ly23/cosmic-evolution/blob/main/dataset/1937%20agn%20random%20order.png)
+![1937 qso ordered](https://github.com/br0ly23/cosmic-evolution/blob/ff7fe47649f884ff63db2c0e7e07294385a6c3c8/dataset/1937%20agns%20secuenced.png)
 
-TOP: The rest-frame AGN spectra of 1937 objects in random order. Each row represents an emission line spectrum colour-coded by
-normalised flux. Bottom:Normalized spectra ordered by line shape similarity. The overall trend reveals a sequence primarily driven by the width and shape of the broad Hα line.
+TOP: The rest-frame AGN spectra of 1941 objects in random order. BOTTOM: Normalized spectra ordered by line shape similarity. Each row represents an emission line spectrum colour-coded by
+normalised flux. The overall trend reveals a sequence primarily driven by the width and shape of the broad Hα line.
 
 ## Publications
 
